@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cc-common/cc-common.iml" filepath="$PROJECT_DIR$/cc-common/cc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-manager/cc-manager.iml" filepath="$PROJECT_DIR$/cc-manager/cc-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-manager/cc-manager-interface/cc-manager-interface.iml" filepath="$PROJECT_DIR$/cc-manager/cc-manager-interface/cc-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-manager/cc-manager-persistence/cc-manager-persistence.iml" filepath="$PROJECT_DIR$/cc-manager/cc-manager-persistence/cc-manager-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-manager/cc-manager-pojo/cc-manager-pojo.iml" filepath="$PROJECT_DIR$/cc-manager/cc-manager-pojo/cc-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-manager/cc-manager-service/cc-manager-service.iml" filepath="$PROJECT_DIR$/cc-manager/cc-manager-service/cc-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-manager-web/cc-manager-web.iml" filepath="$PROJECT_DIR$/cc-manager-web/cc-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-parent/cc-parent.iml" filepath="$PROJECT_DIR$/cc-parent/cc-parent.iml" />
+    </modules>
+  </component>
+</project>
